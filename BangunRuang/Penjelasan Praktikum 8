@@ -1,0 +1,5 @@
+Program java yang saya pake Inheritance
+
+-konsep pewarisan sifat berupa variabel dan fungsi yang dimiliki oleh class untuk diwariskan kepada kelas-kelas yang lain. 
+Jadi singkatnya parent mewarisi method ke child.
+-Inheritance sendiri maksudnya adalah sebuah struktur pemrograman yang terdapat class atau super class yang bersifat sebagai parent dan subclass yang bersifat child.
